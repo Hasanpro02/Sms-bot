@@ -1,0 +1,7 @@
+pkg up update upgrade -y 
+pkg i git -y 
+https://github.com/Hasanpro02/T-Header
+cd T-Header
+ls
+chmod777*
+bash t-header.sh
